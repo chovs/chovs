@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chovs
-- 👀 I’m interested in AI , machine learning
-- 🌱 I’m currently learning on algorithm
-- 💞️ I’m looking to collaborate on cognitive computing
-- 📫 How to reach me vchotikarnnithi@gmail.com
+writing in the morning @getmeproven
+and building stuff at nights 
+
+- currently building the foundation
+
 
 <!---
 chovs/chovs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
