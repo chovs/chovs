@@ -1,4 +1,4 @@
-writing in the morning @getmeproven
+writing in the morning 
 and building stuff at nights 
 
 - currently building the foundation
