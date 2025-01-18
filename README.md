@@ -1,7 +1,7 @@
 writing in the morning 
 and building stuff at nights 
 
-- currently building the foundation
+- currently building thale, second memory for students
 
 
 <!---
