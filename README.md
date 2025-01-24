@@ -2,6 +2,7 @@ writing in the morning
 and building stuff at nights 
 
 - currently building thale, second memory for students
+- writing business stuff
 
 
 <!---
