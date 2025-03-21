@@ -1,8 +1,9 @@
 writing in the morning 
 and building stuff at nights 
 
-- currently building thale, second memory for students
+- currently building Rainmaker to bring back lawyers time
 - writing business stuff
+- recreating things from scratch interest me a lot
 
 
 <!---
