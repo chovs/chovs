@@ -1,7 +1,7 @@
 writing in the morning 
 and building stuff at nights 
 
-- currently building Rainmaker to bring back lawyers time
+- currently building Rainmaker (pivoting)
 - writing business stuff
 - recreating things from scratch interest me a lot
 - learning javascript
